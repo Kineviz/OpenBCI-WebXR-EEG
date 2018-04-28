@@ -1,0 +1,8 @@
+Instructions for running on Windows for VR demo
+
+1. Double click 1_Start_Data_Server
+	a. If it asks, select “Git for Windows” as the app to launch this file.
+2. Double click 2_Start_Web_Server
+	a. If it asks, select “Git for Windows” as the app to launch this file.
+3. Open Firefox
+4. Go to localhost:8080
